@@ -94,3 +94,4 @@ if question:
 # 외부모듈을 사용했다면 에러발생. streamlit cloud에는 module이 설치되어 있지 않기에..
 # 직접 설치는 안되고.. 특정 이름의 문서를 주면 이를 기반으로 자동 설치됨
 # 파이썬의 모듈목록을 저장해놓은 문서 requirments.txt 를 만들고 안에 설치할 모듈목록 등록
+# github에 push...
